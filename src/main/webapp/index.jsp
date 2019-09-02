@@ -14,5 +14,6 @@
 <body>
 	
 	<button class="btn btn-success">我是二号</button>
+	<button class="btn btn-success">我是一号</button>
 </body>
 </html>
